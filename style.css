@@ -555,6 +555,7 @@ footer {
     .intro_container .intro_left_container .btn2 {
         font-size: 14px;
         height: 34px;
+        margin-right: 0;
         width: 140px;
     }
 
@@ -604,6 +605,10 @@ footer {
 
     .pricing_container .pricing_description br {
         display: none;
+    }
+
+    .pricing_container .pricing_title {
+        font-size: 29px;
     }
 
     footer {
